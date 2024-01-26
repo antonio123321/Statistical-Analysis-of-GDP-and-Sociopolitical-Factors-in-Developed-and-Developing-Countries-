@@ -1,3 +1,5 @@
+# Please download the row file if you want to visualize the content of the R notebook as the file size is too big to be shown in GitHub (3MB)
+
 Comparison of Gross Domestic Product and Sociopolitical Factors in Developed and Developing Countries Through Statistical Analysis.
 
 
